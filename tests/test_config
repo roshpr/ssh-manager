@@ -1,0 +1,8 @@
+Host myserver
+    HostName 192.168.1.10
+    User admin
+    IdentityFile ~/.ssh/id_rsa
+
+Host github
+    HostName github.com
+    User git
